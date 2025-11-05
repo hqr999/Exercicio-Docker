@@ -16,7 +16,7 @@ Como rodar cada exercício. Cada um tem uma simples aplicação node.
 ## Exercicio 3  
     cd Docker_Ex3
 
-* Faça uma cópia do .env_template para um .env e preencha como julgar conveniente. Em seguida teste o conteiner de desenvolvimento:
+* Faça uma cópia do conteúdo do .env_template para um .env e preencha como julgar conveniente. Em seguida teste o conteiner de desenvolvimento:
    
         docker compose -f docker-compose.dev.yml up --build
 
